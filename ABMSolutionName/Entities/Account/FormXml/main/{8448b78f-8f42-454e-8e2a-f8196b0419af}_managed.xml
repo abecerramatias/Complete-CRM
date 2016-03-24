@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<systemform>
+  <formid>{8448b78f-8f42-454e-8e2a-f8196b0419af}</formid>
+  <IntroducedVersion>5.0.0.0</IntroducedVersion>
+  <FormPresentation>1</FormPresentation>
+  <FormActivationState>1</FormActivationState>
+  <form showImage="true">
+    <tabs>
+      <tab name="SUMMARY_TAB" id="{3b0b63a9-d379-689a-0ec3-e71eb4c6a841}" IsUserDefined="0" showlabel="true" expanded="true" locklevel="0" ordinalvalue="0">
+        <columns>
+          <column width="28%" id="0">
+            <sections>
+              <section name="SUMMARY_TAB_section_7a" showlabel="true" showbar="true" locklevel="0" id="{7c98bca8-942a-3220-7bb9-2cd3dd55b035}" IsUserDefined="0" layout="varwidth" columns="1" labelwidth="115" celllabelalignment="Left" celllabelposition="Left" ordinalvalue="3" solutionaction="Added">
+                <labels>
+                  <label description="Sectiona" languagecode="1033" />
+                </labels>
+                <rows>
+                  <row>
+                    <cell id="{d6956202-ecea-1569-a5ae-a385e1a8807b}" showlabel="true" locklevel="0" ordinalvalue="10000">
+                      <labels>
+                        <label description="" languagecode="1033" />
+                      </labels>
+                      <control id="new_mytestfield1" classid="{4273EDBD-AC1D-40d3-9FB2-095C621B552D}" datafieldname="new_mytestfield1" disabled="false" />
+                    </cell>
+                  </row>
+                  <row>
+                    <cell id="{959b4199-12a2-eebe-c4d4-c4e7749bdbe6}" showlabel="true" locklevel="0" ordinalvalue="10001">
+                      <labels>
+                        <label description="" languagecode="1033" />
+                      </labels>
+                      <control id="address1_city" classid="{4273EDBD-AC1D-40d3-9FB2-095C621B552D}" datafieldname="address1_city" disabled="false" />
+                    </cell>
+                  </row>
+                  <row>
+                    <cell id="{248de5a2-3c5b-ba75-0e72-0cb02b873256}" showlabel="true" locklevel="0" ordinalvalue="10002">
+                      <labels>
+                        <label description="" languagecode="1033" />
+                      </labels>
+                      <control id="new_mycustomfieldalberto" classid="{4273EDBD-AC1D-40d3-9FB2-095C621B552D}" datafieldname="new_mycustomfieldalberto" disabled="false" />
+                    </cell>
+                  </row>
+                </rows>
+              </section>
+            </sections>
+          </column>
+          <column width="28%" id="2">
+            <sections>
+              <section name="SUMMARY_TAB_section_6" showlabel="false" showbar="false" locklevel="0" id="{d4c3ee9c-ba71-5cdb-31be-2aa505750472}" IsUserDefined="0" layout="varwidth" columns="1" labelwidth="115" celllabelalignment="Left" celllabelposition="Top" ordinalvalue="0">
+                <rows />
+              </section>
+            </sections>
+          </column>
+        </columns>
+      </tab>
+      <tab name="DETAILS_TAB" id="{11a42c72-9ded-ea04-253d-2143e731b795}" IsUserDefined="0" showlabel="true" expanded="true" ordinalvalue="1">
+        <columns>
+          <column width="34%" id="0">
+            <sections>
+              <section name="DETAILS_TAB_section_6" showlabel="true" showbar="false" locklevel="0" id="{e201b9ce-c3d5-c922-dba5-528c25066940}" IsUserDefined="0" layout="varwidth" columns="1" labelwidth="115" celllabelalignment="Left" celllabelposition="Top" height="auto" ordinalvalue="1">
+                <rows />
+              </section>
+            </sections>
+          </column>
+        </columns>
+      </tab>
+    </tabs>
+    <Navigation>
+      <NavBar />
+      <NavBarAreas solutionaction="Added">
+        <NavBarArea Id="Info">
+          <Titles>
+            <Title LCID="1033" Text="Common" />
+          </Titles>
+        </NavBarArea>
+        <NavBarArea Id="Sales">
+          <Titles>
+            <Title LCID="1033" Text="Sales" />
+          </Titles>
+        </NavBarArea>
+        <NavBarArea Id="Service">
+          <Titles>
+            <Title LCID="1033" Text="Service" />
+          </Titles>
+        </NavBarArea>
+        <NavBarArea Id="Marketing">
+          <Titles>
+            <Title LCID="1033" Text="Marketing" />
+          </Titles>
+        </NavBarArea>
+        <NavBarArea Id="ProcessCenter">
+          <Titles>
+            <Title LCID="1033" Text="Process Sessions" />
+          </Titles>
+        </NavBarArea>
+      </NavBarAreas>
+    </Navigation>
+    <footer id="{16c07d2c-d696-4792-b455-20d949100c93}" columns="111" solutionaction="Added">
+      <rows>
+        <row>
+          <cell id="{2a1457c1-262d-7b8c-e268-4a09246c17ba}" showlabel="false" userspacer="true" ordinalvalue="10000">
+            <labels>
+              <label description="" languagecode="1033" />
+            </labels>
+          </cell>
+          <cell id="{9309deb5-18f6-4d29-8023-aa671cf10071}" showlabel="false" ordinalvalue="20001">
+            <labels>
+              <label description="" languagecode="1033" />
+            </labels>
+          </cell>
+          <cell id="{f57263e7-871e-41bf-b757-3abbf6d6c6cc}" showlabel="false" ordinalvalue="30002">
+            <labels>
+              <label description="" languagecode="1033" />
+            </labels>
+          </cell>
+        </row>
+      </rows>
+    </footer>
+  </form>
+  <LocalizedNames>
+    <LocalizedName description="Account" languagecode="1033" />
+  </LocalizedNames>
+  <Descriptions>
+    <Description description="Updated default Account form." languagecode="1033" />
+  </Descriptions>
+</systemform>

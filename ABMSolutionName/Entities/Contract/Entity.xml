@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entity>
+  <Name LocalizedName="Contract" OriginalName="Contract">Contract</Name>
+  <ObjectTypeCode>1010</ObjectTypeCode>
+  <RibbonDiffXml />
+</Entity>

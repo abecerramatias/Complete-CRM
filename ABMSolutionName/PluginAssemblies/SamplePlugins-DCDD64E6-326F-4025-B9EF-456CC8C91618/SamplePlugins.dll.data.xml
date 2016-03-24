@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PluginAssembly FullName="SamplePlugins, Version=0.0.0.0, Culture=neutral, PublicKeyToken=829f574d80e89132" CustomizationLevel="1">
+  <IsolationMode>2</IsolationMode>
+  <SourceType>0</SourceType>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <FileName>/PluginAssemblies/SamplePlugins-DCDD64E6-326F-4025-B9EF-456CC8C91618/SamplePlugins.dll</FileName>
+  <PluginTypes>
+    <PluginType AssemblyQualifiedName="Microsoft.Crm.Sdk.Samples.AccountNumberPlugin, SamplePlugins, Version=0.0.0.0, Culture=neutral, PublicKeyToken=829f574d80e89132" Name="Microsoft.Crm.Sdk.Samples.AccountNumberPlugin">
+      <FriendlyName>39992ee2-3fbe-43a3-a475-ba5b16305aac</FriendlyName>
+    </PluginType>
+    <PluginType AssemblyQualifiedName="Microsoft.Crm.Sdk.Samples.AdvancedPlugin, SamplePlugins, Version=0.0.0.0, Culture=neutral, PublicKeyToken=829f574d80e89132" Name="Microsoft.Crm.Sdk.Samples.AdvancedPlugin">
+      <FriendlyName>f618016c-8ca5-49b0-a265-7f6cdaddd794</FriendlyName>
+    </PluginType>
+    <PluginType AssemblyQualifiedName="Microsoft.Crm.Sdk.Samples.FollowupPlugin, SamplePlugins, Version=0.0.0.0, Culture=neutral, PublicKeyToken=829f574d80e89132" Name="Microsoft.Crm.Sdk.Samples.FollowupPlugin">
+      <FriendlyName>c75e206e-1f7f-4ca8-a134-397fd6d1e0e2</FriendlyName>
+    </PluginType>
+    <PluginType AssemblyQualifiedName="Microsoft.Crm.Sdk.Samples.PostEventPlugin, SamplePlugins, Version=0.0.0.0, Culture=neutral, PublicKeyToken=829f574d80e89132" Name="Microsoft.Crm.Sdk.Samples.PostEventPlugin">
+      <FriendlyName>91b4ba33-a6f8-4297-bcdb-4bbe41ae65a0</FriendlyName>
+    </PluginType>
+    <PluginType AssemblyQualifiedName="Microsoft.Crm.Sdk.Samples.PreEventPlugin, SamplePlugins, Version=0.0.0.0, Culture=neutral, PublicKeyToken=829f574d80e89132" Name="Microsoft.Crm.Sdk.Samples.PreEventPlugin">
+      <FriendlyName>5d34d3a3-8dc7-47ca-acac-6629cb6163f4</FriendlyName>
+    </PluginType>
+    <PluginType AssemblyQualifiedName="Microsoft.Crm.Sdk.Samples.WebClientPlugin, SamplePlugins, Version=0.0.0.0, Culture=neutral, PublicKeyToken=829f574d80e89132" Name="Microsoft.Crm.Sdk.Samples.WebClientPlugin">
+      <FriendlyName>772cbb48-28b4-4009-afd3-eca593664665</FriendlyName>
+    </PluginType>
+  </PluginTypes>
+</PluginAssembly>
